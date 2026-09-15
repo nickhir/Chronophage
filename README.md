@@ -1,8 +1,8 @@
-# Redhai & Hirschmüller _et al._, 2025
+# Redhai & Hirschmüller _et al._, 2026
 
 This repository contains scripts and files supporting the publication: </br>
 
-[Redhai & Hirschmüller _et al._](https://www.biorxiv.org/content/10.1101/2024.09.08.611891v1#), **Autoinhibitory feedback preserves intestinal stem cell maintenance and fate commitment** (2025).
+[Redhai & Hirschmüller _et al._](https://link.springer.com/article/10.1038/s44318-026-00808-x), **Autoinhibitory feedback preserves intestinal stem cell maintenance and fate commitment** (2026).
 
 
 ## Abstract
